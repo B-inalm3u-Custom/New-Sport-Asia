@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=123883&uid=5175&deviceMac=00:1A:79:E5:A9:30
+#EXTINF:2,
+http://050518.pro:8000/play/jt3H8GjlACrE6Jl872b5Mhx-Y6JGABd4kEeMvAPgsnW4vHHvXWGaJE698QCPiAGMdiplaGQZuKBxmPsPBCe5sE4tm37xezv_9x9PL8cAik8gmt6sx_HLQuykmx6YdlJu?ext=.ts

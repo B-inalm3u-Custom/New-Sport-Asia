@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://venomousent.xyz:80/play/live.php?mac=00:1A:79:75:5C:E3&stream=1152171&extension=ts
+#http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=5175&deviceMac=00:1A:79:E5:A9:30
