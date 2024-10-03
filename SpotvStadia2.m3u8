@@ -5,5 +5,6 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:1
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:14:F3&stream=588891&extension=ts
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656927
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/13131.ts
