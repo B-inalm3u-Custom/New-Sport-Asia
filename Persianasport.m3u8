@@ -3,3 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
 http://tv.cloudcdn.me:80/live.ts?channelId=128810&uid=5175&deviceMac=00:1A:79:E5:A9:30
+http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:14:F3&stream=609892&extension=ts
