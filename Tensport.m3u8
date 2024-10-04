@@ -2,6 +2,6 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=771367&extension=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=132255&uid=5175&deviceMac=00:1A:79:E5:A9:30
 #EXTINF:2,
 http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=5175&deviceMac=00:1A:79:E5:A9:30
