@@ -4,6 +4,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191853.ts
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:22:14:F3&stream=554737&extension=ts
 http://ledir.thund.re:80/play/live.php?mac=00:1a:79:25:50:a8&stream=554737&extension=ts
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191853.ts
+
